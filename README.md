@@ -13,4 +13,4 @@ JavaScript
 SweetAlert2
 Desarrollado por Marvin Flores.
 
-Desafío de amigo secreto, programa ONE de Alura Latam
+
